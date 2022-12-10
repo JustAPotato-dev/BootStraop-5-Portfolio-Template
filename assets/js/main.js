@@ -1,4 +1,4 @@
-$(document).ready(async () => {
-  await $('.navbar').load('../../components/Navbar.html')
+$(document).ready(() => {
+  $('.navbar').load('../../components/Navbar.html')
 })
 
