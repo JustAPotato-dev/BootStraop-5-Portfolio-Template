@@ -1,0 +1,8 @@
+html {
+  height: 100%;
+  user-select: none;
+}
+
+.container::-webkit-scrollbar  {
+  width: 0;
+}
