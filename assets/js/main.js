@@ -1,4 +1,4 @@
 $(document).ready(() => {
-  $('.navbar').load('../../components/Navbar.html')
+  $('.navbar').load('components/Navbar.html')
 })
 
