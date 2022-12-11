@@ -39,7 +39,7 @@ To 行雲者網頁組新生:
 使用 Git Clone 將專案下載到本地端。 
 
 ```sh
-git clone https://github.com/JustAPotato-dev/BootStraop-5-Portfolio-Template
+git clone https://github.com/JustAPotato-dev/BootStrap-5-Portfolio-Template
 ```
 
 或是點右上角的 Code 下載 ZIP 檔案。
