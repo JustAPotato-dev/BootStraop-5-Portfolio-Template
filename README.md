@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://justapotato-dev.github.io/BootStrap-5-Portfolio-Template/index.html)
+[![BootStrap-5-Portfolio-Template Screen Shot][product-screenshot]](https://justapotato-dev.github.io/BootStrap-5-Portfolio-Template/index.html)
 
 To 行雲者網頁組新生:
 這是一個使用 Bootstrap 5 建立的 Portfolio Template，因為有人提到之前給的範例過於困難，所以寫個特別簡單的給大家參考。
