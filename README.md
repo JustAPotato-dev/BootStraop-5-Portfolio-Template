@@ -1,24 +1,12 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h3 align="center">BootStrap-5-Portfolio-Template</h3>
 
   <p align="center">
-    A Bootstrap 5 Portfolio Template
-    <br />
-    <a href="https://github.com/JustAPotato-dev/BootStrap-5-Portfolio-Template"><strong>Explore the docs »</strong></a>
+    An easy-to-use Bootstrap 5 Portfolio Template.
     <br />
     <br />
     <a href="https://justapotato-dev.github.io/BootStrap-5-Portfolio-Template/index.html">View Demo</a>
@@ -95,9 +83,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/JustAPotato-dev/BootStrap-5-Portfolio-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/JustAPotato-dev/BootStrap-5-Portfolio-Template/stargazers
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JustAPotato-dev/BootStrap-5-Portfolio-Template.svg?style=for-the-badge
 [license-url]: https://github.com/JustAPotato-dev/BootStrap-5-Portfolio-Template/blob/main/LICENSE.txt
 [product-screenshot]: assets/images/TemplateList.jpg
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
