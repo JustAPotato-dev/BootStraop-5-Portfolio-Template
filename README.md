@@ -21,8 +21,8 @@
 
 [![BootStrap-5-Portfolio-Template Screen Shot][product-screenshot]](https://justapotato-dev.github.io/BootStrap-5-Portfolio-Template/index.html)
 
-To 行雲者網頁組新生:
-這是一個使用 Bootstrap 5 建立的 Portfolio Template，因為有人提到之前給的範例過於困難，所以寫個特別簡單的給大家參考。
+To 行雲者網頁組新生:<br>
+這是一個使用 Bootstrap 5 建立的 Portfolio Template，因為有人提到之前給的範例過於困難，所以直接寫個範例給大家參考，不需要想得特別複雜，寫個人網頁的目的只是為了確認大家在課程中都有學到東西。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,3 +68,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[typed.js]: https://github.com/mattboldt/typed.js/
+[Mountain-Image]: https://www.pexels.com/search/mountain/
