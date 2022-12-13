@@ -39,6 +39,10 @@
 To 行雲者網頁組新生:<br>
 這是一個使用 Bootstrap 5 建立的 Portfolio Template，因為有人提到之前給的範例過於困難，所以直接寫個範例給大家參考，不需要想得特別複雜，寫個人網頁的目的只是為了確認大家在課程中都有學到東西。
 
+<br>
+
+這個專案的輸入動畫使用的是 [typed.js](https://github.com/mattboldt/typed.js/) ，如果你想學純 CSS 實現輸入動畫，可以看這個專案 [CSS-Text-Typing-Animation](https://github.com/JustAPotato-dev/CSS-Text-Typing-Animation)，裡面有附上文章以及影片
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
